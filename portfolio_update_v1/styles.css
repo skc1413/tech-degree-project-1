@@ -43,7 +43,7 @@ a:hover {
 .nav .name {
     display: block;
     margin-right: auto;
-    color: grey;
+    color:#999;
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 40%;
-  border: 3px solid #999;
+  border: 3px solid rgb(96, 95, 95);
   transition: all .5s;
 }
 header .profile-image:hover {
