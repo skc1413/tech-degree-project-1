@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: #bda649;
 }
 a:hover {
   color: #6633ff;
@@ -165,6 +165,9 @@ a.social:hover {
 }
 .clearfix {
   clear: both;
+}
+.experience {
+  color:pink;
 }
 
 /* Styles for larger screens */
