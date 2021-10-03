@@ -30,6 +30,7 @@ a:hover {
   padding: 10px;
   position: fixed;
   text-align: center;
+  color: #bda649;
 }
 .nav {
   display: flex;
@@ -39,7 +40,10 @@ a:hover {
   margin: 0 auto;
   padding: 0;
 }
-
+.extra-picture {
+  width: 150px;
+  height: 150px;
+}
 .nav .name {
     display: block;
     margin-right: auto;
