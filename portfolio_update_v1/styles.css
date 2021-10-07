@@ -24,6 +24,7 @@ a:hover {
 /* Section Styles */
 
 .main-nav {
+  border-radius: 8px;
   width: 100%;
   background: black;
   min-height: 30px;
@@ -172,6 +173,13 @@ a.social:hover {
 }
 .experience {
   color:pink;
+}
+#resume {
+  border-radius: 8px;
+  display: inline-block;
+  background: #bda649;
+  padding: 2px 2px;
+  margin: 4px;
 }
 
 /* Styles for larger screens */
